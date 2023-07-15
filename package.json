@@ -1,0 +1,31 @@
+{
+  "name": "dylanjames.gay",
+  "version": "0.2",
+  "description": "A portfolio site made by yours truly, ported into nextjs.",
+  "main": "server.js",
+  "author": "Dylan James",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start --port=4801",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bootstrap": "^5.2.1",
+    "mongoose": "6.1.2",
+    "next": "12.3.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/next": "^9.0.0",
+    "@types/node": "^18.7.20",
+    "@types/react": "18.0.21",
+    "eslint": "8.24.0",
+    "eslint-config-next": "12.3.1",
+    "typescript": "4.8.3"
+  }
+}
