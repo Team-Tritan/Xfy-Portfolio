@@ -14,10 +14,8 @@ export default function HomeHero() {
           </h1>
           <div className="animate__animated animate__fadeInUp">
             <p className="animate__animated animate__fadeInUp lead pl-2 text-white">
-              Software & Network Engineer
-              <br />
-              Like lava lamp.
-            </p>
+              Software & Network Engineer, mid at best.
+              </p>
             <br />
             <img
               className="animate__animated animate__fadeInUp"
@@ -27,7 +25,7 @@ export default function HomeHero() {
           </div>
         </div>
         <div className="animate__animated animate__fadeInUp col-lg-4 text-center my-auto pb-5 rounded-circle">
-          <img className="img-fluid rounded-circle" src="https://cdn.discordapp.com/avatars/1053558214152704070/4a125cd02a79c908c03b4730d88b8edc.webp?size=1024" />
+          <img className="img-fluid rounded-circle" src="https://cdn.discordapp.com/avatars/359498825150365699/a_7a7830d8b67ed467fdb8a47d3786c0b6.gif?size=1024" />
         </div>
       </div>
     </section>

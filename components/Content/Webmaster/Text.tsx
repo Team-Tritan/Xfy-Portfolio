@@ -14,10 +14,10 @@ export default function WebmasterText() {
             Let's talk about that.
             <strong>Your name was in the footer of every fucking page.</strong>
             The domain might have said
-            <a href="http://dylanjames.gay">dylanjames.gay</a>, but it was
+            {"  "} <a href="http://dylanjames.gay">dylanjames.gay</a>, but it was
             built, hosted, and maintained by one person. If you had a question,
             you emailed
-            <a href="mailto:webmaster@dylanjames.gay">
+            {"  "} <a href="mailto:webmaster@dylanjames.gay">
               webmaster@dylanjames.gay
             </a>
             .
@@ -77,9 +77,9 @@ export default function WebmasterText() {
             <strong>you could make your own website.</strong> You'd publish
             whatever you were passionate about:
             <a href="https://www.spork.org/">sporks</a>,
-            <a href="http://www.dcs.ed.ac.uk/home/jhb/whisky/">whiskey</a>, or
+            {"  "} <a href="http://www.dcs.ed.ac.uk/home/jhb/whisky/">whiskey</a>, or
             your hatred of
-            <a href="http://toastytech.com/evil/index.html">
+            {"  "}<a href="http://toastytech.com/evil/index.html">
               Internet Explorer
             </a>
             . Crazy enough: you put that stuff online, and you'd meet other
@@ -90,7 +90,7 @@ export default function WebmasterText() {
           <p>
             Our websites were pretty damned ugly. Instead of worrying about
             window dressing, we focused on
-            <a href="/words">words</a>, hierarchy, and structure. Each new page
+            {"  "}<a href="/words">words</a>, hierarchy, and structure. Each new page
             started in a text editor looking something like this:
           </p>
           <pre>

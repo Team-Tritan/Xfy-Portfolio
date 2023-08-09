@@ -7,7 +7,7 @@ export default function WordsHero() {
         <div className="col-lg-8 text-left pb-5">
           <h1 className="display-1">
             Your
-            <span style={{ color: "rgb(71, 71, 172)" }}>words</span> are
+            <span style={{ color: "rgb(71, 71, 172)" }}> words</span> are
             powerful.
           </h1>
           <p style={{ color: "white" }}>
